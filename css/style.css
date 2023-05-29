@@ -115,7 +115,7 @@ header {
   width: 100%;
   min-height: 100vh;
   height: 100%;
-  background: url(.././images/header.svg);
+  background: url(/images/header.svg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -627,7 +627,7 @@ main svg:hover {
 }
 
 .owl-carousel .prev-slide {
-  background-image: url(".././images/Arrow_2.svg") !important;
+  background-image: url("/images/Arrow_2.svg") !important;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 50%;
@@ -637,7 +637,7 @@ main svg:hover {
   left: -33px;
 }
 .owl-carousel .next-slide {
-  background-image: url(".././images/Arrow_1.svg") !important;
+  background-image: url("/images/Arrow_1.svg") !important;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 50%;
@@ -709,7 +709,7 @@ section.tab-color.tab-section {
 
 /* experience */
 .etour-section {
-  background-image: url(.././images/banner_3.jpg);
+  background-image: url(/images/banner_3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
